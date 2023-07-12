@@ -1,0 +1,53 @@
+{
+  "bot": {
+    "token": "Token_Here",
+    "serverId": "Serverid_Here",
+    "ownerId": "Ownerid_Here",
+    "prefix": ["&!"]
+  },
+  "roles": {
+    "staff": [
+      {
+        "name": "Mod1",
+        "id": "800108066346369044"
+      },
+      {
+        "name": "Mod2",
+        "id": "800109888159088692"
+      },
+      {
+        "name": "Mod3",
+        "id": "802903049440854026"
+      }
+    ],
+    "warn": [
+      {
+        "name": "Warn1",
+        "id": "802096506693877780"
+      },
+      {
+        "name": "Warn2",
+        "id": "802096602734919681"
+      },
+      {
+        "name": "Warn3",
+        "id": "802096680296120350"
+      }
+    ]
+  },
+  "commands": {
+    "onlyChannels": {
+      "status": true,
+      "data": ["800340199757578302", "847535794087919677"]
+    }
+  },
+  "channels": {
+    "word_tr": "847535794087919677"
+  },
+  "word": {
+    "status": true,
+    "lastCharacter": "",
+    "lastUserId": "",
+    "limitFinishCount": 250
+  }
+}
