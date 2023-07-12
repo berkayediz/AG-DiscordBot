@@ -1,0 +1,64 @@
+{
+  "bot": {
+    "token": "ODQ3NTE1NTg1NjYzMDc0MzIz.YK_MZQ.Qz6mUDMC9lnbhbERARhRN14gSfY",
+    "serverId": "800102128927899718",
+    "ownerId": "401725862292094993",
+    "prefix": [
+      "&!"
+    ]
+  },
+  "roles": {
+    "staff": [
+      {
+        "name": "Encümen Yardımcı Danışmanı",
+        "id": "802903049440854026",
+        "queue": 1
+      },
+      {
+        "name": "Encümen Danışmanı",
+        "id": "800109888159088692",
+        "queue": 2
+      },
+      {
+        "name": "Encümen Baş Danışmanı",
+        "id": "800108066346369044",
+        "queue": 3
+      }
+    ],
+    "warn": [
+      {
+        "name": "Warn1",
+        "id": "802096506693877780",
+        "queue": 1
+      },
+      {
+        "name": "Warn2",
+        "id": "802096602734919681",
+        "queue": 2
+      },
+      {
+        "name": "Warn3",
+        "id": "802096680296120350",
+        "queue": 3
+      }
+    ]
+  },
+  "commands": {
+    "onlyChannels": {
+      "status": true,
+      "data": [
+        "800340199757578302",
+        "847535794087919677"
+      ]
+    }
+  },
+  "channels": {
+    "word_tr": "847535794087919677"
+  },
+  "word": {
+    "status": true,
+    "lastCharacter": "l",
+    "lastUserId": "853382531378446367",
+    "limitFinishCount": 1000
+  }
+}
