@@ -1,0 +1,1 @@
+nodemon ./dist/Main.js --watch dist/ --config nodemon.json

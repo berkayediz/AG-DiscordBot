@@ -1,0 +1,3 @@
+{   
+  "ignore": ["dist/config/*.json", "dist/database/data.db", "dist/users/*.json"] 
+}

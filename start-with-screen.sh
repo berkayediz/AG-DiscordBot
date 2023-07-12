@@ -1,0 +1,1 @@
+screen -d -m -t AGBot sh start.sh
