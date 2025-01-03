@@ -1,5 +1,5 @@
 # AG-DiscordBot
-Discord bot include word game, modarator guard and clear command
+Discord bot include word game, moderation guard and clear command
 
 AGBot is a Discord bot that includes various features such as moderation, chat message deletion, server security, word game, and slow mode.
 
